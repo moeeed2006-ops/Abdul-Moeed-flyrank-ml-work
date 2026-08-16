@@ -2,7 +2,7 @@
 
 **Author:** Abdul Moeed  
 **Lane:** Refresh / Content Opportunity Scoring  
-**Repo:** https://github.com/moeed2006-ops/flyrank-ml-capstone  
+**Repo:** [https://github.com/moeeed2006-ops/Abdul-Moeed-flyrank-ml-work]
 **Date:** August 2026  
 
 ---
